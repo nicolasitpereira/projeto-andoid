@@ -139,18 +139,17 @@ main strong {
 main a {
     text-decoration: none;
     font-weight: bold;
-    color: var(--cor5);
-    background-color: var(--cor3);
+    color: var(--cor4);
+    background-color: rgb(216, 217, 241);
     padding: 2px 4px;
     border-radius: 5px;
     transition-duration: 0.3s;
 }
 
 main a:hover {
-    padding: 1px 3px;
     text-decoration: underline;
     color: var(--cor5);
-    background-color: rgb(76, 87, 123);
+    background-color: rgb(128, 154, 239);
     
     
 }
@@ -164,6 +163,23 @@ main img.pequena {
 main img {
     width: 100%;
 }
+
+#ext {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--cor4);
+    background-color: rgb(113, 142, 236);
+    padding: 2px 4px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+}
+
+#ext:hover {
+    text-decoration: underline;
+    color: var(--cor5);
+    background-color: rgb(104, 117, 249);
+}
+
 div.video {
     background-color: #050a33;
     margin: 0px -20px 30px -20px;
