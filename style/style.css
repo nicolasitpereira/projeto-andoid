@@ -64,6 +64,7 @@ header > p {
 }
 
 nav {
+    font-size: 12pt;
     white-space: nowrap;
     background-color: var(--cor5);
     padding: 10px;
@@ -84,6 +85,11 @@ nav > a:hover {
     color: var(--cor5);
     padding: 10px;
 }
+
+#menu {
+    position: sticky;
+    top: 0;
+} 
 
 main {
 
