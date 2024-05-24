@@ -9,12 +9,12 @@
 }
 
 :root {
-    --cor0: #ece0a0bc;
-    --cor1: #83e1ad;
-    --cor2: #3ddc84;
-    --cor3: #30965e;
-    --cor4: #1a5c37;
-    --cor5: #053319;
+    --cor0: #d2dbf0bc;
+    --cor1: #839ae1;
+    --cor2: #3d57dc;
+    --cor3: #304196;
+    --cor4: #1a1e5c;
+    --cor5: #050c33;
 
     --fonte-padrao: arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
@@ -150,7 +150,7 @@ main a:hover {
     padding: 1px 3px;
     text-decoration: underline;
     color: var(--cor5);
-    background-color: rgb(76, 123, 76);
+    background-color: rgb(76, 87, 123);
     
     
 }
@@ -165,7 +165,7 @@ main img {
     width: 100%;
 }
 div.video {
-    background-color: #053319;
+    background-color: #050a33;
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 56.6%;
@@ -220,3 +220,4 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
